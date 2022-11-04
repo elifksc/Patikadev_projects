@@ -2,7 +2,7 @@
 Patika.dev &amp; Kodluyoruz eğitimi kapsamında
 
 Gizli patika üzerinde aldığım veri yapıları ve algoritma bölümünün sonunda bulunan proje ödevlerini içermektedir.<br>
-[Patika](www.patika.dev)<br>
+[Patika](https://www.patika.dev) <br>
 [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)
 
 ## Project-1
